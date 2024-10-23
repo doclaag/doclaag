@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Luis Alonzo (@doclaag)
+- 👋 Hi, I’m Luis Alonzo @doclaag
 - 👀 I’m passionate about coding, video games, and books!
 - 🌱 Currently, I’m diving into new technologies and expanding my skillset every day.
   
